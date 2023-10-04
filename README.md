@@ -1,4 +1,4 @@
-# eat-n-split-react
+# Eat-n-split-react
 
 Your irreplaceable assistant on a date or meeting - Bill spliter app. 
 
