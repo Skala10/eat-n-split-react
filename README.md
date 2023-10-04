@@ -2,16 +2,16 @@
 
 Your irreplaceable assistant on a date or meeting - Bill spliter app. 
 
-# demo: 
+# Demo: 
 
 https://skala10.github.io/eat-n-split-react/
 
-## features
+## Features
 
 - Feature 1: add/delete friend
 - Feature 2: splite bill
 
-## technologies
+## Technologies
 
 List of technologies used in the project:
 
